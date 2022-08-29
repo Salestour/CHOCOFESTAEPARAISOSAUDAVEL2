@@ -1,9 +1,4 @@
 {
- "name": "chocofesta e paraiso ",
- "start_url": "index.htm?installed=true",
- "display": "fullscreen",
- "background_color": "#663300",
- "theme_color": "#663300",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +35,10 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ]
+ ],
+ "theme_color": "#663300",
+ "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
+ "name": "chocofesta e paraiso ",
+ "background_color": "#663300"
 }
